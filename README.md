@@ -10,8 +10,6 @@ https://github.com/coding-boot-camp/fantastic-umbrella
   ## Table of contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contribution](#contribution)
-  * [Testing](#testing)
   * [Questions](#questions)
   
   ## Installation
@@ -19,12 +17,6 @@ https://github.com/coding-boot-camp/fantastic-umbrella
 
   ## Usage 
   Start the server then use software like Insomnia to make requests to the database.
-
-  ## Contribution
-  
-
-  ## Testing
-  
 
   ## Questions
   If you have any questions, please reach out through GitHub or by email.
